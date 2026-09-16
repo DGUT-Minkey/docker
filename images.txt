@@ -1,2 +1,2 @@
 ingress-controller:v0.46.0
-docker.io/jettech/kube-webhook-certgen:v1.5.
+docker.io/jettech/kube-webhook-certgen:v1.5.1
