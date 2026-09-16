@@ -1,1 +1,2 @@
-quay.io/tigera/operator:v1.38.5
+ingress-controller:v0.46.0
+docker.io/jettech/kube-webhook-certgen:v1.5.
