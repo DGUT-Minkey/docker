@@ -1,1 +1,1 @@
-tomcat:8.0.45
+mvn:lastest
