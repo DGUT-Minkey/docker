@@ -1,3 +1,3 @@
-jdk-8:latest
+openjdk:8-jdk
 node:14-alpine
 maven:latest
